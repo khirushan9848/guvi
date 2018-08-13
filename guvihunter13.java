@@ -36,7 +36,7 @@ class guvihunters13
         {
             for(int i=0;i<o.length;i++)
             {
-                System.out.print(o[i]);
+                System.out.print(o[i]+" ");
             }
         }
     }
